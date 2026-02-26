@@ -2,44 +2,59 @@
 
 ## About Me
 
-I’m a Computer Science student at the University of San Diego and a U.S. Air Force veteran with experience supporting mission-critical operations. I approach software engineering with a systems mindset — prioritizing reliability, structured problem-solving, and performance-aware design.
+Computer Science student at the University of San Diego and U.S. Air Force veteran with experience supporting mission-critical operations. I’m particularly interested in backend engineering, distributed systems, and performance-oriented software.
 
-My primary interests include systems programming, networking, backend development, and simulation-based modeling. I focus on writing clean, testable code and building software that is scalable and maintainable.
+I enjoy building reliable systems, designing clean abstractions, and writing code that scales. My work emphasizes structured problem-solving, testability, and maintainability.
 
-Currently building projects that explore simulation, computer vision, and real-time interaction systems.
+Currently focused on systems-level programming, simulation modeling, and real-time computer vision applications.
 
 ---
 
-## Focus Areas
+## Technical Interests
 
+- Backend & Infrastructure Engineering  
+- Distributed Systems  
 - Systems Programming  
-- Networking & Distributed Systems  
-- Backend Development  
 - Algorithm Design & Data Structures  
-- Reliability & Testing  
+- Reliability, Testing & Debugging  
 
 ---
 
-## Featured Projects
+## Selected Projects
 
-### 🎲 Birthday Paradox Probability Simulator
-Simulation-based program modeling the probability of shared birthdays within a group using Monte Carlo trials. Compared experimental results against theoretical probability models.
+### 🎲 Birthday Paradox Simulation Engine
+Built a Monte Carlo simulation framework to model probabilistic collision detection in large sample sets. Compared experimental convergence against theoretical probability models.
 
-**Tech:** Python, Simulation Modeling, Algorithm Design
+**Highlights**
+- Designed repeatable simulation framework
+- Implemented efficient collision detection logic
+- Analyzed statistical convergence behavior
 
----
-
-### 🎮 Multi-Modal Game Control System
-Developed multiple real-time input control systems including keyboard, mouse gesture detection, color tracking, finger tracking, and head movement tracking using computer vision.
-
-**Tech:** Python, OpenCV, MediaPipe, Real-Time Processing
+**Tech:** Python, Algorithm Design, Statistical Modeling
 
 ---
 
-### ⚙️ Operational Workflow Automation (U.S. Air Force)
-Designed and implemented digital workflows to streamline operational coordination processes in time-sensitive environments.
+### 🎮 Real-Time Multi-Modal Control System
+Developed multiple real-time input systems including keyboard, mouse gesture detection, color tracking, finger tracking, and head movement tracking.
 
-**Focus:** Systems Coordination, Process Optimization, Operational Efficiency
+**Highlights**
+- Integrated OpenCV + MediaPipe for landmark detection
+- Designed movement threshold logic to reduce false triggers
+- Optimized frame processing for real-time performance
+
+**Tech:** Python, OpenCV, MediaPipe, Real-Time Systems
+
+---
+
+### ⚙️ Workflow Automation – U.S. Air Force
+Designed digital process automation systems for time-sensitive operational coordination.
+
+**Highlights**
+- Reduced manual tracking steps
+- Standardized workflow submission and approval logic
+- Improved reliability in high-stakes environments
+
+**Focus:** Process Automation, Systems Thinking, Operational Efficiency
 
 ---
 
@@ -50,7 +65,7 @@ Designed and implemented digital workflows to streamline operational coordinatio
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-### Tools & Environment
+### Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -58,27 +73,22 @@ Designed and implemented digital workflows to streamline operational coordinatio
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 
-### Concepts
-- Object-Oriented Programming  
-- Data Structures  
-- Algorithm Design  
-- Unit Testing  
-- Code Coverage  
-- Systems Thinking  
+### Engineering Practices
+- Object-Oriented Design  
+- Test-Driven Development  
+- Unit Testing & Code Coverage  
+- Debugging & Performance Analysis  
+- Clean Architecture  
 
 ---
 
-## Connect With Me
+## What I'm Working Toward
+
+I’m pursuing software engineering internships focused on backend systems, infrastructure, and scalable application design. Long-term, I aim to build high-performance systems that operate reliably at scale.
+
+---
+
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devongalbraith)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dgalbraith@sandiego.edu)
-
----
-
-## GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=devongalb&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=devongalb&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devongalb&theme=dark&hide_border=false&layout=compact)
