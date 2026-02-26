@@ -65,6 +65,8 @@ Designed digital process automation systems for time-sensitive operational coord
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
+---
+
 ### Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -73,12 +75,46 @@ Designed digital process automation systems for time-sensitive operational coord
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 
+---
+
+### Frameworks & Libraries
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+MediaPipe
+
+---
+
+### Systems & Infrastructure
+- Linux environment and CLI usage  
+- Git workflows (branching, pull requests)  
+- Basic networking concepts  
+- Process and memory fundamentals  
+
+---
+
+### Testing & Quality
+- Unit testing  
+- Mocking (Mockito)  
+- Code coverage analysis  
+- Debugging and performance analysis  
+
+---
+
+### CS Foundations
+- Data structures (lists, trees, hash maps)  
+- Algorithmic complexity analysis  
+- Object-oriented design  
+- Recursion and backtracking  
+
+---
+
 ### Engineering Practices
-- Object-Oriented Design  
-- Test-Driven Development  
-- Unit Testing & Code Coverage  
-- Debugging & Performance Analysis  
-- Clean Architecture  
+- Test-driven development  
+- Clean architecture  
+- Structured problem-solving  
+- Maintainable and scalable design principles  
 
 ---
 
