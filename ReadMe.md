@@ -1,5 +1,5 @@
-# 💫 About Me:
-Here is a short, clean introduction that fits your style and doesn’t answer every prompt:<br><br>⸻<br><br>I’m a Computer Science student at the University of San Diego with a background in the U.S. Air Force. I’m passionate about building efficient systems, writing clean code, and solving real-world problems through software. My interests span networking, systems programming, and full-stack development, and I’m always looking for opportunities to learn, collaborate, and build meaningful projects.
+# About Me:
+I’m a Computer Science student at the University of San Diego with a background in the U.S. Air Force. I’m passionate about building efficient systems, writing clean code, and solving real-world problems through software. My interests span networking, systems programming, and full-stack development, and I’m always looking for opportunities to learn, collaborate, and build meaningful projects.
 
 
 ## 🌐 Socials:
