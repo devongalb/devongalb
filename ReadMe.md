@@ -1,82 +1,90 @@
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devongalbraith)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dgalbraith@sandiego.edu)
+[![Website](https://img.shields.io/badge/Website-Portfolio-0A192F?logo=google-chrome&logoColor=white)](https://devongalb.github.io)
+
 # Devon Galbraith
 
-Computer Science @ University of San Diego | U.S. Air Force Veteran  
-Backend • Systems • Distributed Software
+Computer Science @ University of San Diego  
+U.S. Air Force Veteran  
+Backend • Systems • Infrastructure
 
 ---
 
 ## About
 
-Computer Science student focused on backend engineering, distributed systems, and performance-oriented software. I build projects that emphasize reliability, clean abstractions, and maintainable design.
+Computer Science student focused on backend engineering, systems programming, and performance‑oriented software design. My work emphasizes reliability, clear abstractions, and maintainable architecture.
+
+Before transitioning into software engineering, I served on active duty in the United States Air Force in nuclear command and control operations. That experience shaped my approach to engineering: disciplined execution, attention to detail, and designing systems that must operate reliably under pressure.
+
+I am particularly interested in distributed systems, infrastructure software, and performance‑critical applications.
 
 ---
 
 ## Selected Projects
 
-### 🎲 Birthday Paradox Simulation Engine
-Monte Carlo simulation modeling collision probability and comparing experimental convergence against theoretical results.
+### Birthday Paradox Simulation Engine
+Monte Carlo simulation modeling birthday collision probability and comparing experimental convergence against theoretical results.
 
-**Tech:** Python
+**Key Work**
+- Implemented large‑scale randomized simulations
+- Modeled probabilistic collision behavior
+- Compared empirical results against theoretical predictions
 
----
-
-### 🎮 Real-Time Multi-Modal Control System
-Real-time control system using keyboard, mouse gestures, color tracking, hand tracking, and face tracking to control a grid-based game.
-
-**Tech:** Python, OpenCV, MediaPipe
+**Tech:** Java
 
 ---
 
-### ⚙️ Workflow Automation – U.S. Air Force
-Designed digital workflow automation systems for time-sensitive operational coordination in mission-critical environments.
+### Real‑Time Multi‑Modal Control System
+Real‑time input system that controls a grid‑based game using keyboard input, mouse gestures, color tracking, hand tracking, and facial tracking.
+
+**Key Work**
+- Built computer vision pipelines for gesture recognition
+- Implemented multiple input modalities simultaneously
+- Integrated OpenCV and MediaPipe for real‑time processing
+
+**Tech:** Python • OpenCV • MediaPipe
 
 ---
 
-## Tech Stack
+### Operational Workflow Automation — U.S. Air Force
+Designed automation systems that improved visibility and coordination in time‑sensitive operational environments.
+
+**Key Work**
+- Built structured tracking systems for operational readiness
+- Automated reporting and data visibility for leadership
+- Reduced manual coordination overhead
+
+**Tech:** SharePoint • Power Automate • JSON
+
+---
+
+## Technical Skills
 
 ### Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
----
+Python • Java • C
 
 ### Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+Git • GitHub • Linux • VS Code • IntelliJ IDEA • Vim
+
+### Libraries & Frameworks
+OpenCV • MediaPipe • NumPy • Bootstrap
+
+### Foundations
+- Data Structures & Algorithms
+- Object‑Oriented Design
+- Algorithmic Complexity
+- Networking Fundamentals
+- Unit Testing & Mocking
 
 ---
 
-### Frameworks & Libraries
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+## Interests
 
----
-
-### Systems & Foundations
-- Data structures and algorithms
-- Algorithmic complexity analysis
-- Object-oriented design
-- Linux & CLI usage
-- Networking fundamentals
-- Unit testing & mocking (Mockito)
-
----
-
-## Currently
-
-- Building systems-oriented and real-time projects  
-- Seeking software engineering internships (backend / infrastructure)
+I enjoy building systems that require careful reasoning about edge cases, performance tradeoffs, and long‑term maintainability. My current projects focus on simulation modeling, computer vision pipelines, and systems‑level tooling.
 
 ---
 
 ## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devongalbraith)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dgalbraith@sandiego.edu)
+Website: https://devongalb.github.io  
+[LinkedIn](https://linkedin.com/in/devongalbraith)  
+Email: dgalbraith@sandiego.edu
