@@ -12,107 +12,108 @@ Backend • Systems • Infrastructure
 
 ## About
 
-Computer Science student at the University of San Diego focused on backend engineering, systems programming, and performance-oriented software design. My work emphasizes reliability, clean abstractions, and maintainable architecture across both academic and deployed systems.
+Computer Science student at the University of San Diego with a background in U.S. Air Force command and control operations. I enjoy building reliable software systems with a focus on backend development, networking, infrastructure, and performance-oriented design.
 
-Before transitioning into software engineering, I served on active duty in the United States Air Force in nuclear command and control operations. That experience shaped my approach to engineering: disciplined execution, attention to detail, and designing systems that must operate reliably under pressure.
-
-I am particularly interested in distributed systems, infrastructure software, and performance-critical applications where correctness and stability matter as much as feature delivery.
+My engineering interests include distributed systems, systems programming, network protocols, automation, and full-stack applications. Prior military experience in mission-critical operational environments shaped my approach to software development: reliability, maintainability, and disciplined execution.
 
 ---
 
-## Selected Projects
+## Current Focus
 
-### TCP Music Streaming System
-Custom application-layer protocol over TCP between a C++ server and Java client for reliable on-demand audio streaming.
-
-**Key Work**
-- Designed message framing, type codes, and sequencing for control and data traffic
-- Built C++ server with socket setup, accept loop, and chunked audio delivery
-- Built Java client with catalog display and audio data reassembly
-- Handled partial reads, framing edge cases, and graceful connection teardown
-
-**Tech:** C++ • Java • TCP/IP • Sockets
+- Backend Engineering
+- Systems Programming
+- Networking & Distributed Systems
+- Infrastructure & Reliability
+- Full-Stack Web Applications
+- Software Engineering Internships
 
 ---
 
-### DC Draft Simulation System
-Fantasy draft simulator built on real congressional stock trading data with season-based matchups and pluggable scoring strategies.
+## Featured Projects
 
-**Key Work**
-- Designed OO class hierarchy for politicians, trades, teams, matches, and seasons
-- Applied Strategy Pattern for interchangeable scoring logic
-- Built CSV data pipeline parsing real Capitol Trades disclosure data
-- Used TDD, JUnit, Checkstyle, SpotBugs, and GitHub Actions CI
+| Project | Description | Tech |
+|----------|-------------|------|
+| **Fitness Tracker** | Full-stack fitness platform replacing spreadsheet-based workflows with analytics, authentication, role-based access, and team dashboards. | React, JavaScript, PostgreSQL, Supabase |
+| **TCP Music Streaming System** | Custom application-layer protocol over TCP between a C++ server and Java client for reliable audio streaming. | C++, Java, TCP/IP |
+| **DC Draft Simulation System** | Congressional trading fantasy draft simulator with pluggable scoring strategies and season simulations. | Java, OOP, JUnit |
+| **Elevator Simulation System** | Discrete-event elevator simulation featuring multiple elevator types and interchangeable scheduling strategies. | Java, OOP, SOLID |
+| **Operational Workflow Automation** | Air Force operational readiness and workflow automation systems improving visibility and reducing manual coordination. | SharePoint, Power Apps, Power Automate |
 
-**Tech:** Java • OOP • Strategy Pattern • CSV Parsing • JUnit
+### Portfolio
 
----
+➡️ Full project writeups, screenshots, diagrams, and demonstrations:
 
-### Fitness Tracker Web Application
-Full-stack fitness tracking platform replacing spreadsheet-based logging with structured data, analytics, and team dashboards.
-
-**Key Work**
-- Built React SPA with Supabase backend, PostgreSQL, and Row Level Security
-- Implemented authentication, alias-based profiles, and role-based admin views
-- Deployed to Vercel with weekly and monthly analytics computed from daily logs
-- Built admin dashboard for team participation tracking and reporting
-
-**Tech:** React • JavaScript • PostgreSQL • Supabase • Vercel
-
----
-
-### Operational Workflow Automation — U.S. Air Force
-Automation systems improving visibility and coordination in time-sensitive operational environments.
-
-**Key Work**
-- Built structured tracking systems for operational readiness and certifications
-- Automated approval workflows, routing, and notifications for leadership
-- Reduced manual coordination overhead across multiple processes
-- Self-taught JSON formatting to extend SharePoint interface capabilities
-
-**Tech:** SharePoint • Power Apps • Power Automate • JSON
+**Portfolio:** https://devongalb.github.io
 
 ---
 
 ## Technical Skills
 
 ### Languages
+
 Python • Java • C • C++ • JavaScript • SQL
 
+### Frameworks & Platforms
+
+React • PostgreSQL • Supabase • OpenCV • Power Platform • Vercel
+
 ### Tools
+
 Git • GitHub • Linux • VS Code • IntelliJ IDEA • Vim
 
-### Frameworks & Platforms
-React • PostgreSQL • Supabase • Vercel • OpenCV • Power Platform
+### Areas of Interest
 
-### Foundations
 - Data Structures & Algorithms
 - Object-Oriented Design
 - Systems Programming
 - Networking & Protocol Design
+- Distributed Systems
+- Software Architecture
 - Unit Testing & CI/CD
 
 ---
 
 ## Education
 
-**University of San Diego** — B.S. Computer Science *(Expected May 2027)*  
-**University of Maryland Global Campus** — A.A. General Studies  
-**Community College of the Air Force** — A.A.S. Emergency Management
+### University of San Diego
+**B.S. Computer Science** *(Expected May 2027)*
+
+**Relevant Coursework**
+- Data Structures
+- Object-Oriented Design
+- Computer Networks
+- Operating Systems
+- Software Development
+- Calculus I & II
+
+### University of Maryland Global Campus
+**A.A. General Studies**
+
+### Community College of the Air Force
+**A.A.S. Emergency Management**
 
 ---
 
 ## Military Service
 
-**U.S. Air Force — Active Duty & Reserves** | 2019 – Present  
-Senior Nuclear Command and Control Operations Specialist
+### U.S. Air Force — Active Duty & Reserves (2019–Present)
 
-Served at Kadena AB (Japan), Incirlik AB (Turkey), RAF Mildenhall (UK), and March ARB (CA). Deployed in support of AFAFRICA and SOCAFRICA operations. Held positions above grade level in joint command center environments.
+Senior Nuclear Command and Control Operations Specialist with assignments in Japan, Turkey, the United Kingdom, Germany, and the United States.
 
-Awards: Joint Service Achievement Medal • Air and Space Commendation Medal (×2) • Air and Space Achievement Medal (×2) • Air Force Outstanding Unit Award
+Experience supporting mission-critical command and control operations, operational reporting, workflow automation, and software solutions used in real-world operational environments.
+
+**Awards**
+- Joint Service Achievement Medal
+- Air and Space Commendation Medal (2×)
+- Air and Space Achievement Medal (2×)
+- Air Force Outstanding Unit Award
 
 ---
 
 ## Connect
 
-[Portfolio](https://devongalb.github.io) • [LinkedIn](https://linkedin.com/in/devongalbraith) • dgalbraith@sandiego.edu
+🌐 **Portfolio:** https://devongalb.github.io
+
+💼 **LinkedIn:** https://linkedin.com/in/devongalbraith
+
+📧 **Email:** dgalbraith@sandiego.edu
