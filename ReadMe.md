@@ -1,20 +1,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devongalbraith)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dgalbraith@sandiego.edu)
-[![Website](https://img.shields.io/badge/Website-Portfolio-0A192F?logo=google-chrome&logoColor=white)](https://devongalb.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-devongalb.github.io-0A192F?logo=google-chrome&logoColor=white)](https://devongalb.github.io)
 
 # Devon Galbraith
 
-Computer Science @ University of San Diego  
-U.S. Air Force Veteran · Active Top Secret Clearance  
-Backend • Systems • Infrastructure
+Computer Science student at the University of San Diego and former U.S. Air Force command and control specialist.
 
----
+Interested in backend engineering, systems programming, networking, distributed systems, infrastructure, and full-stack application development.
 
-## About
-
-Computer Science student at the University of San Diego with a background in U.S. Air Force command and control operations. I enjoy building reliable software systems with a focus on backend development, networking, infrastructure, and performance-oriented design.
-
-My engineering interests include distributed systems, systems programming, network protocols, automation, and full-stack applications. Prior military experience in mission-critical operational environments shaped my approach to software development: reliability, maintainability, and disciplined execution.
+🌐 **Portfolio:** https://devongalb.github.io
 
 ---
 
@@ -25,7 +19,6 @@ My engineering interests include distributed systems, systems programming, netwo
 - Networking & Distributed Systems
 - Infrastructure & Reliability
 - Full-Stack Web Applications
-- Software Engineering Internships
 
 ---
 
@@ -33,87 +26,45 @@ My engineering interests include distributed systems, systems programming, netwo
 
 | Project | Description | Tech |
 |----------|-------------|------|
-| **Fitness Tracker** | Full-stack fitness platform replacing spreadsheet-based workflows with analytics, authentication, role-based access, and team dashboards. | React, JavaScript, PostgreSQL, Supabase |
-| **TCP Music Streaming System** | Custom application-layer protocol over TCP between a C++ server and Java client for reliable audio streaming. | C++, Java, TCP/IP |
-| **DC Draft Simulation System** | Congressional trading fantasy draft simulator with pluggable scoring strategies and season simulations. | Java, OOP, JUnit |
-| **Elevator Simulation System** | Discrete-event elevator simulation featuring multiple elevator types and interchangeable scheduling strategies. | Java, OOP, SOLID |
-| **Operational Workflow Automation** | Air Force operational readiness and workflow automation systems improving visibility and reducing manual coordination. | SharePoint, Power Apps, Power Automate |
+| **Fitness Tracker** | Full-stack fitness platform replacing spreadsheet workflows with structured tracking, analytics, authentication, and team dashboards. | React, PostgreSQL, Supabase |
+| **TCP Music Streaming System** | Custom application-layer protocol supporting reliable music streaming between a C++ server and Java client. | C++, Java, TCP/IP |
+| **DC Draft Simulation System** | Congressional trading fantasy draft simulator featuring pluggable scoring strategies and season simulations. | Java, OOP, JUnit |
+| **Elevator Simulation System** | Discrete-event simulation with multiple elevator types and interchangeable scheduling algorithms. | Java, SOLID, OOP |
+| **Operational Workflow Automation** | Workflow and readiness systems that streamlined approvals, reporting, and operational visibility. | SharePoint, Power Platform |
 
-### Portfolio
-
-➡️ Full project writeups, screenshots, diagrams, and demonstrations:
+➡️ More projects, writeups, diagrams, and demonstrations:
 
 **Portfolio:** https://devongalb.github.io
 
 ---
 
-## Technical Skills
+## Tech Stack
 
 ### Languages
+C • C++ • Java • Python • JavaScript • SQL
 
-Python • Java • C • C++ • JavaScript • SQL
-
-### Frameworks & Platforms
-
-React • PostgreSQL • Supabase • OpenCV • Power Platform • Vercel
+### Technologies
+React • PostgreSQL • Supabase • OpenCV • Power Platform
 
 ### Tools
-
 Git • GitHub • Linux • VS Code • IntelliJ IDEA • Vim
 
-### Areas of Interest
+---
 
-- Data Structures & Algorithms
-- Object-Oriented Design
-- Systems Programming
-- Networking & Protocol Design
+## Currently Learning
+
+- Operating Systems
+- Computer Networks
 - Distributed Systems
 - Software Architecture
-- Unit Testing & CI/CD
-
----
-
-## Education
-
-### University of San Diego
-**B.S. Computer Science** *(Expected May 2027)*
-
-**Relevant Coursework**
-- Data Structures
-- Object-Oriented Design
-- Computer Networks
-- Operating Systems
-- Software Development
-- Calculus I & II
-
-### University of Maryland Global Campus
-**A.A. General Studies**
-
-### Community College of the Air Force
-**A.A.S. Emergency Management**
-
----
-
-## Military Service
-
-### U.S. Air Force — Active Duty & Reserves (2018–Present)
-
-Senior Nuclear Command and Control Operations Specialist with assignments in Japan, Turkey, the United Kingdom, Germany, and the United States.
-
-Experience supporting mission-critical command and control operations, operational reporting, workflow automation, and software solutions used in real-world operational environments.
-
-**Awards**
-- Joint Service Achievement Medal
-- Air and Space Commendation Medal (2×)
-- Air and Space Achievement Medal (2×)
-- Air Force Outstanding Unit Award
+- Infrastructure & Reliability Engineering
 
 ---
 
 ## Connect
 
-🌐 **Portfolio:** https://devongalb.github.io
+💼 LinkedIn: https://linkedin.com/in/devongalbraith
 
-💼 **LinkedIn:** https://linkedin.com/in/devongalbraith
+🌐 Portfolio: https://devongalb.github.io
 
-📧 **Email:** dgalbraith@sandiego.edu
+📧 Email: dgalbraith@sandiego.edu
