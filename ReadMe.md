@@ -96,7 +96,7 @@ Git • GitHub • Linux • VS Code • IntelliJ IDEA • Vim
 
 ## Military Service
 
-### U.S. Air Force — Active Duty & Reserves (2019–Present)
+### U.S. Air Force — Active Duty & Reserves (2018–Present)
 
 Senior Nuclear Command and Control Operations Specialist with assignments in Japan, Turkey, the United Kingdom, Germany, and the United States.
 
